@@ -108,3 +108,10 @@ En este ejemplo, queremos añadir los nº de interlocutor pero es posible adapta
 [![Streamlit](https://img.shields.io/badge/Streamlit-0.83.0-red.svg)](https://streamlit.io/)
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 
+<p align="center">
+<a href="https://github.com/adriansg1991">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
