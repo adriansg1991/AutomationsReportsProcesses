@@ -92,6 +92,7 @@ A continuación, podéis ver un video donde se puede el programa que he creado q
 ### 5. Último paso
 
 Con el Excel convertido al formato que pide SAP, sólo falta acceder a SAP y cargar el archivo. De esta manera, se contabilizarán todas las facturas de forma masiva.
+
 ---
 ## AUTOMATIZACIÓN 3
 En la empresa actual donde trabajo, la introducción de datos en el CRM se hacia de forma manual. Este proceso es posible automatizarlo con Python.
