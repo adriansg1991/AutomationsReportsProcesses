@@ -77,5 +77,5 @@ Puedes encontrar el código fuente y más detalles sobre este proyecto en el sig
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-0.83.0-red.svg)](https://streamlit.io/)
 
-![Automatización de Tareas](https://miro.medium.com/v2/resize:fit:720/format:webp/1*JiOQAAjsvcms1Gqbe8gREg.png)
+![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/1.png)
 
