@@ -45,6 +45,8 @@ A continuación, podéis ver un video donde se puede ver el proceso automatizado
 
 [![Automatización de Informe de Productos Mensual](https://img.youtube.com/vi/iPIPH-fp9_s/0.jpg)](https://youtu.be/iPIPH-fp9_s)
 
+---
+
 ## Proyecto 2: Automatización de Carga Masiva de Facturas en SAP Business One
 
 Otra automatización que he realizado es la automatización de la carga de facturas de forma masiva en SAP Business One. Para cargar facturas, SAP exige un archivo Excel con un formato específico. Tradicionalmente, los contables debían descargar la información de las facturas desde el CRM de la empresa, trabajar los datos en Excel, adaptarlos al formato requerido por SAP y luego cargarlos en el sistema.
@@ -75,14 +77,6 @@ Para simplificar y automatizar este proceso, he creado un programa con interfaz 
 - **Lenguajes**: Python
 - **Librerías**: pandas, numpy, openpyxl, tkinter
 - **Herramientas de Desarrollo**: Auto-py-to-exe
-
-### Repositorio del Proyecto
-
-Puedes encontrar el código fuente y más detalles sobre este proyecto en el siguiente enlace:
-[Repositorio de Carga Masiva de Facturas en SAP Business One](https://github.com/tu-usuario/carga-masiva-facturas-sap)
-
----
-
 
 ### Excel extraído del CRM
 ![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/1.png)
