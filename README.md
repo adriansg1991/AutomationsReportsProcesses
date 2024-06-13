@@ -98,7 +98,7 @@ Con el Excel convertido al formato que pide SAP, sólo falta acceder a SAP y car
 ---
 
 ## AUTOMATIZACIÓN 3
-En una de las empresas en la que trabajé, la introducción de datos en el CRM se hacia de forma manual. Este proceso es posible automatizarlo con Python.
+En la empresa actual donde trabajo, la introducción de datos en el CRM se hacia de forma manual. Este proceso es posible automatizarlo con Python.
 Podemos realizar un script que se ocupe de leer un .CSV/excel y vaya rellenando los campos que le indiquemos del CRM (web).
 
 Por ejemplo, en el CRM de la empresa, hay un campo donde indicamos el nº de interlocutor SAP.
