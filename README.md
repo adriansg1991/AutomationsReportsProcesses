@@ -105,7 +105,7 @@ El script irá entrando en la ficha del interlocutor del CRM mediante el CIF y r
 En este ejemplo, queremos añadir los nº de interlocutor pero es posible adaptarlo para cualquier información que queramos añadir.
 
 ![Logo de Python](https://www.python.org/static/community_logos/python-logo.png)
-[![Streamlit](https://img.shields.io/badge/Streamlit-0.83.0-red.svg)](https://streamlit.io/)
+
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 
 <p align="center">
