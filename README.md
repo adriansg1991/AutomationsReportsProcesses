@@ -109,5 +109,3 @@ En este ejemplo, queremos añadir los nº de interlocutor pero es posible adapta
 
 Código de ejemplo del script: [Repositorio Script carga datos a CRM](https://github.com/adriansg1991/Automatizaciones/blob/main/AddDataCRM.py)
 
-Gracias por leer y por tu tiempo, siempre puedes comunicarte conmigo a través de LinkedIn.
-
