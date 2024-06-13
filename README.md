@@ -81,10 +81,10 @@ Puedes encontrar el código fuente y más detalles sobre este proyecto en el sig
 
 
 ### Excel para cargar en SAP
-![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/2.png)
+![Automatización Carga masiva fras. a SAP B1](https://github.com/adriansg1991/Automatizaciones/blob/main/2.png)
 
 ### 5. Programa — Conversor
 ![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/3.png)
 
 A continuación, podéis ver un video donde se puede el programa que he creado que automatiza este proceso:
-[https://youtu.be/UUBhiQdTuu0](https://youtu.be/UUBhiQdTuu0)
+[![Imagen de vista previa del video](https://img.youtube.com/vi/UUBhiQdTuu0/0.jpg)](https://youtu.be/UUBhiQdTuu0)
