@@ -1,6 +1,12 @@
 # Automatización de Tareas en Departamentos Contables/Financieros
-![Logo de Python](https://www.python.org/static/community_logos/python-logo.png)
+
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+[![Pandas](https://img.shields.io/badge/pandas-1.2.0+-yellow)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-1.20.0-blue)](https://numpy.org/)
+[![OpenpyXL](https://img.shields.io/badge/openpyxl-3.0.7-brightgreen)](https://openpyxl.readthedocs.io/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)](https://docs.python.org/3/library/tk.html)
+[![Auto-py-to-exe](https://img.shields.io/badge/Auto--py--to--exe-2.10.0-green)](https://pypi.org/project/auto-py-to-exe/)
+
 
 Es cierto que la automatización de tareas en departamentos contables/financieros puede ser muy beneficiosa. La implementación de tecnologías y herramientas automatizadas puede ahorrar tiempo, reducir errores humanos y permitir que los profesionales se centren en tareas más estratégicas y analíticas.
 
