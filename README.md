@@ -111,6 +111,11 @@ Código de ejemplo del script: [Repositorio Script carga datos a CRM](https://gi
 
 
 
+# Mostrar Miniatura de un Video de YouTube en el Archivo READMED.md de un Repositorio de GitHub
+ 
+[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
+
+
 <p align="center">
 <a href="https://github.com/adriansg1991">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adriansg1991&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
