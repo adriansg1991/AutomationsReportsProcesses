@@ -115,6 +115,8 @@ Código de ejemplo del script: [Repositorio Script carga datos a CRM](https://gi
  
 [![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
 
+---
+
 
 <p align="center">
 <a href="https://github.com/adriansg1991">
