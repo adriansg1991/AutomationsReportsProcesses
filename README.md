@@ -1,4 +1,4 @@
-# Automatización de Tareas en Departamentos Contables/Financieros
+# Automatización de procesos/informes en Departamentos Contables/Financieros
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Pandas](https://img.shields.io/badge/pandas-1.2.0+-yellow)](https://pandas.pydata.org/)
