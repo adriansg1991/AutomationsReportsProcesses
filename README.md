@@ -102,7 +102,7 @@ En la empresa actual donde trabajo, la introducción de datos en el CRM se hacia
 Podemos realizar un script que se ocupe de leer un .CSV/excel y vaya rellenando los campos que le indiquemos del CRM (web).
 
 Por ejemplo, en el CRM de la empresa, hay un campo donde indicamos el nº de interlocutor SAP.
-En SAP, puedes sacar un listado con el CIF y nº de interlocutor, una vez han sido creados. De esta manera, podemos cargar este listado en el CRM de forma automatica.
+En SAP, puedes sacar un listado con el CIF y nº de interlocutor, una vez han sido creados. De esta manera, podemos cargar este listado en el CRM de forma automática.
 El script irá entrando en la ficha del interlocutor del CRM mediante el CIF y rellenará el nº de interlocutor.
 
 En este ejemplo, queremos añadir los nº de interlocutor pero es posible adaptarlo para cualquier información que queramos añadir.
