@@ -43,26 +43,26 @@ Otra automatización que he realizado es la automatización de la carga de factu
 
 Para simplificar y automatizar este proceso, he creado un programa con interfaz gráfica que actúa como un conversor. El objetivo del programa es cargar el archivo descargado del CRM, hacer clic en “convertir” y generar automáticamente el archivo Excel necesario para la carga en SAP, eliminando la necesidad de manipulación manual de los datos y reduciendo así el tiempo y los errores potenciales.
 
-### Funcionalidades
+### 1. Funcionalidades
 
 - **Carga del archivo CRM**: Permite cargar el archivo Excel exportado desde el CRM.
 - **Conversión Automática**: Transforma los datos al formato requerido por SAP con un solo clic.
 - **Interfaz de Usuario**: Proporciona una interfaz gráfica fácil de usar para los contables, eliminando la necesidad de trabajar manualmente con los datos.
 
-### Librerías Utilizadas
+### 2. Librerías Utilizadas
 
 - **Pandas/Numpy**: Para leer el archivo Excel de facturas descargado del CRM y transformar los datos hasta obtener el formato requerido por SAP.
 - **OpenpyXL**: Para dar formato al archivo final (formato de tabla, agrupación de celdas, etc.).
 - **Tkinter**: Para crear una interfaz gráfica de usuario (GUI) con varios botones que facilitan el trabajo a los contables.
 - **Auto-py-to-exe**: Para compilar el código y generar un ejecutable (.exe).
 
-### Ejemplo de Uso
+### 3. Ejemplo de Uso
 
 1. **Carga del Archivo CRM**: Los usuarios cargan el archivo Excel descargado desde el CRM a través de la interfaz del programa.
 2. **Conversión**: Hacen clic en el botón "Convertir" para transformar los datos automáticamente.
 3. **Archivo Final**: El programa genera el archivo Excel en el formato correcto para ser cargado en SAP Business One.
 
-### Tecnologías y Herramientas
+### 4. Tecnologías y Herramientas
 
 - **Lenguajes**: Python
 - **Librerías**: pandas, numpy, openpyxl, tkinter
@@ -81,4 +81,7 @@ Puedes encontrar el código fuente y más detalles sobre este proyecto en el sig
 
 
 ### Excel para cargar en SAP
+![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/2.png)
 
+### 5. Programa — Conversor
+![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/3.png)
