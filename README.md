@@ -75,7 +75,7 @@ Puedes encontrar el código fuente y más detalles sobre este proyecto en el sig
 
 ---
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-0.83.0-red.svg)](https://streamlit.io/)
 
+### Excel extraído del CRM
 ![Automatización de Tareas](https://github.com/adriansg1991/Automatizaciones/blob/main/1.png)
 
