@@ -102,6 +102,7 @@ A continuación, podéis ver un video donde se puede el programa que he creado q
 Con el Excel convertido al formato que pide SAP, sólo falta acceder a SAP y cargar el archivo. De esta manera, se contabilizarán todas las facturas de forma masiva.
 
 ---
+
 ## AUTOMATIZACIÓN 3
 En la empresa actual donde trabajo, la introducción de datos en el CRM se hacia de forma manual. Este proceso es posible automatizarlo con Python.
 Podemos realizar un script que se ocupe de leer un .CSV/excel y vaya rellenando los campos que le indiquemos del CRM (web).
@@ -112,7 +113,7 @@ El script irá entrando en la ficha del interlocutor del CRM mediante el CIF y r
 
 En este ejemplo, queremos añadir los nº de interlocutor pero es posible adaptarlo para cualquier información que queramos añadir.
 
-
+Código de ejemplo del script: [Repositorio Script carga datos a CRM](https://github.com/adriansg1991/Automatizaciones/blob/main/AddDataCRM.py)
 
 
 
