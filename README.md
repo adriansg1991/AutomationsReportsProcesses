@@ -1,4 +1,5 @@
 # Automatización de Tareas en Departamentos Contables/Financieros
+![Logo de Python](https://www.python.org/static/community_logos/python-logo.png)
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 
 Es cierto que la automatización de tareas en departamentos contables/financieros puede ser muy beneficiosa. La implementación de tecnologías y herramientas automatizadas puede ahorrar tiempo, reducir errores humanos y permitir que los profesionales se centren en tareas más estratégicas y analíticas.
@@ -105,7 +106,7 @@ El script irá entrando en la ficha del interlocutor del CRM mediante el CIF y r
 
 En este ejemplo, queremos añadir los nº de interlocutor pero es posible adaptarlo para cualquier información que queramos añadir.
 
-![Logo de Python](https://www.python.org/static/community_logos/python-logo.png)
+
 
 
 
