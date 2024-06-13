@@ -32,3 +32,7 @@ Para poder automatizar este informe, he utilizado las siguientes librerías:
   
 - **Pandas/Numpy**: Utilizo estas librerías para trabajar con los datos descargados del CRM.
   - Selecciono las columnas que necesito y hago las operaciones necesarias que haría de forma manual en un Excel: sumar datos, restar, quitar filas, agrupar, etc. hasta llegar a los resultados que necesito.
+
+A continuación, podéis ver un video donde se puede ver el proceso automatizado:
+
+[![Automatización de Informe de Productos Mensual](https://img.youtube.com/vi/iPIPH-fp9_s/0.jpg)](https://youtu.be/iPIPH-fp9_s)
