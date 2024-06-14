@@ -14,7 +14,7 @@ Gracias a haber aprendido a programar en Python, me permite mejorar este tipo de
 
 Como he comentado en este post, voy a explicar 3 automatizaciones que he realizado.
 
-## Proyecto 1: Informe de Productos Mensual
+## 📊 Proyecto 1: Informe de Productos Mensual
 
 En la empresa donde trabajo actualmente, se requiere elaborar mensualmente un informe el primer día del mes que contenga un listado de todas las compañías del grupo, junto con las ventas correspondientes a una serie de productos que comercializamos.
 
@@ -47,7 +47,7 @@ A continuación, podéis ver un video donde se puede ver el proceso automatizado
 
 ---
 
-## Proyecto 2: Automatización de Carga Masiva de Facturas en SAP Business One
+## 📊 Proyecto 2: Automatización de Carga Masiva de Facturas en SAP Business One
 
 Otra automatización que he realizado es la automatización de la carga de facturas de forma masiva en SAP Business One. Para cargar facturas, SAP exige un archivo Excel con un formato específico. Tradicionalmente, los contables debían descargar la información de las facturas desde el CRM de la empresa, trabajar los datos en Excel, adaptarlos al formato requerido por SAP y luego cargarlos en el sistema.
 
@@ -97,7 +97,7 @@ Con el Excel convertido al formato que pide SAP, sólo falta acceder a SAP y car
 
 ---
 
-## AUTOMATIZACIÓN 3
+## 📊 Proyecto 3: Cargar datos a una web a través de .csv/.xlsx
 En la empresa actual donde trabajo, la introducción de datos en el CRM se hacia de forma manual. Este proceso es posible automatizarlo con Python.
 Podemos realizar un script que se ocupe de leer un .CSV/excel y vaya rellenando los campos que le indiquemos del CRM (web).
 
