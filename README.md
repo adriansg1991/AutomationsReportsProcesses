@@ -59,7 +59,7 @@ Para simplificar y automatizar este proceso, he creado un programa con interfaz 
 - **Conversión Automática**: Transforma los datos al formato requerido por SAP con un solo clic.
 - **Interfaz de Usuario**: Proporciona una interfaz gráfica fácil de usar para los contables, eliminando la necesidad de trabajar manualmente con los datos.
 
-### 📦 2. Librerías 
+### 2. Librerías 📦
 
 - **Pandas/Numpy**: Para leer el archivo Excel de facturas descargado del CRM y transformar los datos hasta obtener el formato requerido por SAP.
 - **OpenpyXL**: Para dar formato al archivo final (formato de tabla, agrupación de celdas, etc.).
