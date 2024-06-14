@@ -111,7 +111,7 @@ El script irá entrando en la ficha del interlocutor del CRM mediante el CIF y r
 En este ejemplo, queremos añadir los nº de interlocutor pero es posible adaptarlo para cualquier información que queramos añadir.
 
 Código de ejemplo del script: [Repositorio Script carga datos a CRM](https://github.com/adriansg1991/Automatizaciones/blob/main/AddDataCRM.py)
----
+
 
 ## 📬 Contacto
 
