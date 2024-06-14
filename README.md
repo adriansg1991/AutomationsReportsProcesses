@@ -28,7 +28,7 @@ Por ejemplo, los productos, aparte de venderlos a clientes finales, también se 
 
 Para que funcione el script y te genere las ventas mensuales por laboratorio, únicamente hay que indicar las fechas de inicio y final para extraer la información del CRM.
 
-### 📦 1.3 Librerías 
+### 1.3 Librerías 📦
 
 Para poder automatizar este informe, he utilizado las siguientes librerías:
 
