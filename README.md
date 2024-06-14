@@ -7,6 +7,9 @@
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)](https://docs.python.org/3/library/tk.html)
 [![Auto-py-to-exe](https://img.shields.io/badge/Auto--py--to--exe-2.10.0-green)](https://pypi.org/project/auto-py-to-exe/)
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1tN3Zsdm81cjVjZTJscmExdmV2eTM3YmlkN2hzZHFhbDA2YXRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
+</div>
 
 Es cierto que la automatización de tareas en departamentos contables/financieros puede ser muy beneficiosa. La implementación de tecnologías y herramientas automatizadas puede ahorrar tiempo, reducir errores humanos y permitir que los profesionales se centren en tareas más estratégicas y analíticas.
 
