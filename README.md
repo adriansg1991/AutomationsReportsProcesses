@@ -28,7 +28,7 @@ Por ejemplo, los productos, aparte de venderlos a clientes finales, también se 
 
 Para que funcione el script y te genere las ventas mensuales por laboratorio, únicamente hay que indicar las fechas de inicio y final para extraer la información del CRM.
 
-### 1.3 Librerías
+### 📦 1.3 Librerías 
 
 Para poder automatizar este informe, he utilizado las siguientes librerías:
 
@@ -59,7 +59,7 @@ Para simplificar y automatizar este proceso, he creado un programa con interfaz 
 - **Conversión Automática**: Transforma los datos al formato requerido por SAP con un solo clic.
 - **Interfaz de Usuario**: Proporciona una interfaz gráfica fácil de usar para los contables, eliminando la necesidad de trabajar manualmente con los datos.
 
-### 2. Librerías Utilizadas
+### 📦 2. Librerías 
 
 - **Pandas/Numpy**: Para leer el archivo Excel de facturas descargado del CRM y transformar los datos hasta obtener el formato requerido por SAP.
 - **OpenpyXL**: Para dar formato al archivo final (formato de tabla, agrupación de celdas, etc.).
